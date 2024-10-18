@@ -1,9 +1,12 @@
 
 
 <div align="center"> 
-
-![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=transparent)
+<img width="800px" src="https://github.com/dbtjrgh/dbtjrgh/blob/main/Seokho%20Logo.gif"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbtjrgh&layout=compact" />
 </div>
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
