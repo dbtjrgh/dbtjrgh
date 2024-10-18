@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={dbtjrgh}&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username={dbtjrgh}&show_icons=true&theme=radical
 
 <!---
 dbtjrgh/dbtjrgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
