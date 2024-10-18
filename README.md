@@ -1,5 +1,6 @@
+
+
 <div align="center"> 
-![Seokho Logo](https://github.com/user-attachments/assets/0f165e6d-832c-44fb-99f4-9ca16a6dec44)
 
 ![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=transparent)
 </div>
