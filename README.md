@@ -1,7 +1,7 @@
 
 <div align="center"> 
 <img width="800px" src="https://github.com/dbtjrgh/dbtjrgh/blob/main/Seokho%20Logo.gif"/>
-<img src="https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=radical" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=radical" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbtjrgh&layout=compact" />
 </div>
 
@@ -10,6 +10,8 @@
 <div align="center">
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -21,33 +23,20 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+   
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@jnary">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="20212908@soongsil.ac.kr">
+   <a href="mailto:dbtjrgh0522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dbtjrgh0522@gmail.com"/></a>
+<a href="https://www.instagram.com/dbtjrgh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbtjrgh"/></a>
+  <a href="201718023@sangji.ac.kr">
     <img
-      src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/201718023@sangji.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
-  <a href="https://blog.naver.com/j_nary">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://www.instagram.com/j_naary/">
 </div>
 <!---
 dbtjrgh/dbtjrgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
