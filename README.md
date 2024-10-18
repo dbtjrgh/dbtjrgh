@@ -26,9 +26,6 @@
    
 </div>
 
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
    <a href="mailto:dbtjrgh0522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dbtjrgh0522@gmail.com"/></a>
