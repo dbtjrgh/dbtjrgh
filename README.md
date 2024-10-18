@@ -1,5 +1,4 @@
 
-
 <div align="center"> 
 <img width="800px" src="https://github.com/dbtjrgh/dbtjrgh/blob/main/Seokho%20Logo.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dbtjrgh&show_icons=true&theme=radical" />
@@ -10,6 +9,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
