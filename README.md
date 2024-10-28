@@ -30,9 +30,9 @@
 <div align="center">
    <a href="mailto:dbtjrgh0522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dbtjrgh0522@gmail.com"/></a>
 <a href="https://www.instagram.com/dbtjrgh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbtjrgh"/></a>
-  <a href="201718023@sangji.ac.kr">
+  <a href="dbtjrgh0522@naver.com">
     <img
-      src="https://img.shields.io/badge/201718023@sangji.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dbtjrgh0522@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
 </div>
 <!---
