@@ -1,5 +1,5 @@
 <div align="center">
-<img width="800px" src="https://github.com/dbtjrgh/dbtjrgh/blob/main/Seokho%20Logo.gif"/>
+<img width="800px" src="./Seokho%20Logo.gif"/>
 
 <h2>유석호 · 검증 도구를 만드는 게임 QA</h2>
 
