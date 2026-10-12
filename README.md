@@ -15,7 +15,7 @@
 
 - 에듀테크 회사에서 **콘텐츠 개발**을 맡아 학습 콘텐츠(인터랙티브 액티비티)를 TypeScript · PixiJS 로 만들고 있습니다.
 - 반복 제작을 자동화하는 **데스크톱 앱을 혼자 설계 · 구현 · 배포**해 실제 제작에 쓰고 있습니다.
-  AI(Claude Code)가 코드를 쓰고, **스펙 120여 장과 검사 도구가 그 결과를 검산**하는 구조입니다.
+  AI(Claude Code)가 코드를 쓰면 **타입 검사가 막고**, 개발 완료 액티비티 857개를 스펙 검사에 다시 넣는 점검으로 **결함 9개**를 찾았습니다.
 
 ### 🔍 검증하는 방식
 
@@ -24,7 +24,7 @@
 | **테스트 설계** | 기능 리스크 · 사용 빈도 · 조건 분기로 범위를 정하고, 정상 흐름과 네거티브 케이스를 함께 설계 |
 | **재현 가능한 리포트** | 재현 절차와 환경을 남기고, 「플레이 흐름을 깨는가」로 심각도를 판단 |
 | **E2E 자동화** | Playwright 로 납품 빌드를 띄워 기기 크기 셋에서 끝까지 플레이, 연타 · 깨진 저장값 · 예전 저장값 같은 경계와 회귀를 테스트로 고정 |
-| **회귀를 도구로** | 완성본 **1,586개**를 스펙에 다시 넣어 보는 전체 회귀 검사, 완성본을 다시 만들어 글자까지 비교하는 재현 검사 |
+| **회귀를 도구로** | 개발 완료 액티비티 **857개**를 스펙 검사에 다시 넣는 점검(2026-10 기준 통과 802, 결함 9), 완성본을 다시 만들어 글자까지 비교하는 재현 검사 |
 | **흔들리는 대상 고정** | AI 응답을 녹음 · 재생해 「AI 가 다르게 답한 것」과 「도구가 망가진 것」을 분리해 측정 |
 | **함정 기록** | 개발하며 밟은 함정 99개를 기록해 다음 작업 전에 먼저 읽게 함 |
 
@@ -32,8 +32,9 @@
 
 | 프로젝트 | 무엇 | 기술 |
 |---|---|---|
-| [**activity-forge**](https://github.com/dbtjrgh/activity-forge) | 학습 액티비티 양산 자동화 데스크톱 앱 — AI 가 만들고 스펙 · 타입 검사가 막고 3회까지 재시도, figma 화면 해석, 자체 업데이트 배포 | Electron · TypeScript · React · Claude Code |
+| [**activity-forge**](https://github.com/dbtjrgh/activity-forge) | 학습 액티비티 양산 자동화 데스크톱 앱 — AI 가 쓴 코드를 타입 검사가 막고 3회까지 재시도, 완성본 857개 점검으로 결함 9개 발견, figma 화면 해석, 자체 업데이트 배포 | Electron · TypeScript · React · Claude Code |
 | [**hospital-social-story**](https://github.com/dbtjrgh/hospital-social-story) | 발달장애인 병원 검사 연습 콘텐츠와 편집기 — Playwright E2E 테스트 115개를 폰 · 태블릿 크기로, 원고 검사기로 금지 표현 차단 | React · Electron · Playwright |
+| [**Limbus Company 로비 테스트**](https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee) | v1.102.0 업데이트 로비를 PC 라이브 서버에서 7개 영역 206케이스로 테스트, Pass 193 · Fail 2 · Not Test 11 (2026.04) | QA · TC |
 | [**샷건킹 모작 TC**](https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee) | 직접 만든 샷건킹 모작의 로비 · 튜토리얼 · 전투 테스트 케이스 설계와 버그 리포트 (튜토리얼 중 입력 제한 누락 등) | QA · TC |
 | [**Shotgun-King**](https://github.com/dbtjrgh/Shotgun-King) | 샷건킹 3D 모작 — 1인 개발 | Unity · C# |
 | [**HAUNTED-HOUSE**](https://github.com/dbtjrgh/HAUNTED-HOUSE) | 파스모포비아 모작, 4인 협동 호러 — 팀 프로젝트 | Unity · C# |
