@@ -1,7 +1,7 @@
 <div align="center">
 <img width="800px" src="./Seokho%20Logo.gif"/>
 
-<h2>유석호 · 검증 도구를 만드는 게임 QA</h2>
+<h2>유석호 · 검증 도구를 만드는 개발자</h2>
 
 <b>버그를 찾는 데서 멈추지 않고, 같은 버그가 다시 못 지나가게 도구로 막습니다.</b><br/>
 게임 클라이언트(Unity · C#)를 만들어 본 개발 경험과, 현업에서 직접 만든 검증 · 자동화 도구로<br/>
@@ -17,7 +17,7 @@
 - 반복 제작을 자동화하는 **데스크톱 앱을 혼자 설계 · 구현 · 배포**해 실제 제작에 쓰고 있습니다.
   AI(Claude Code)가 코드를 쓰고, **스펙 120여 장과 검사 도구가 그 결과를 검산**하는 구조입니다.
 
-### ✅ QA 로 일하는 방식
+### 🔍 검증하는 방식
 
 | | |
 |---|---|
@@ -34,7 +34,7 @@
 |---|---|---|
 | [**activity-forge**](https://github.com/dbtjrgh/activity-forge) | 학습 액티비티 양산 자동화 데스크톱 앱 — AI 가 만들고 스펙 · 타입 검사가 막고 3회까지 재시도, figma 화면 해석, 자체 업데이트 배포 | Electron · TypeScript · React · Claude Code |
 | [**hospital-social-story**](https://github.com/dbtjrgh/hospital-social-story) | 발달장애인 병원 검사 연습 콘텐츠와 편집기 — Playwright E2E 테스트 115개를 폰 · 태블릿 크기로, 원고 검사기로 금지 표현 차단 | React · Electron · Playwright |
-| [**샷건킹 QA**](https://broadleaf-cone-10f.notion.site/QA-46ad3026dd6f41819442a1331edf6bee) | 로비 · 튜토리얼 · 전투 테스트 케이스 설계와 버그 리포트 (튜토리얼 중 입력 제한 누락 등) | QA · TC |
+| [**샷건킹 모작 TC**](https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee) | 직접 만든 샷건킹 모작의 로비 · 튜토리얼 · 전투 테스트 케이스 설계와 버그 리포트 (튜토리얼 중 입력 제한 누락 등) | QA · TC |
 | [**Shotgun-King**](https://github.com/dbtjrgh/Shotgun-King) | 샷건킹 3D 모작 — 1인 개발 | Unity · C# |
 | [**HAUNTED-HOUSE**](https://github.com/dbtjrgh/HAUNTED-HOUSE) | 파스모포비아 모작, 4인 협동 호러 — 팀 프로젝트 | Unity · C# |
 | [**The_Light_Brigade**](https://github.com/dbtjrgh/The_Light_Brigade) | VR FPS 로그라이크 모작 — 팀 프로젝트 | Unity VR · C# |
@@ -66,6 +66,6 @@
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="mailto:dbtjrgh0522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
-  <a href="https://broadleaf-cone-10f.notion.site/QA-46ad3026dd6f41819442a1331edf6bee"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
+  <a href="https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/dbtjrgh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
