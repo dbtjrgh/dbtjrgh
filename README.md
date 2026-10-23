@@ -34,6 +34,7 @@
 |---|---|---|
 | [**activity-forge**](https://github.com/dbtjrgh/activity-forge) | 학습 액티비티 양산 자동화 데스크톱 앱 — AI 가 쓴 코드를 타입 검사가 막고 3회까지 재시도, 완성본 857개 점검으로 결함 9개 발견, figma 화면 해석, 자체 업데이트 배포 | Electron · TypeScript · React · Claude Code |
 | [**hospital-social-story**](https://github.com/dbtjrgh/hospital-social-story) | 발달장애인 병원 검사 연습 콘텐츠와 편집기 — Playwright E2E 테스트 115개를 폰 · 태블릿 크기로, 원고 검사기로 금지 표현 차단 | React · Electron · Playwright |
+| [**device-qa-board**](https://github.com/dbtjrgh/device-qa-board) | 학습 액티비티 648개를 태블릿 · 전자칠판 실기기에서 검수한 기록 도구 — 기기별 문제 기록, 같은 모듈 판단으로 검수 범위를 줄이고, 같은 기록을 현황 화면 · A4 PDF 보고서로 | JavaScript · Cloudflare Workers · D1 |
 | [**Limbus Company 로비 테스트**](https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee) | 개인 연습으로 v1.102.0 업데이트 로비를 PC 라이브 서버에서 7개 영역 206케이스로 테스트, Pass 193 · Fail 2 · Not Test 11 (2026.04) | QA · TC |
 | [**샷건킹 모작 TC**](https://broadleaf-cone-10f.notion.site/46ad3026dd6f41819442a1331edf6bee) | 직접 만든 샷건킹 모작의 로비 · 튜토리얼 · 전투 테스트 케이스 설계와 버그 리포트 (튜토리얼 중 입력 제한 누락 등) | QA · TC |
 | [**Shotgun-King**](https://github.com/dbtjrgh/Shotgun-King) | 샷건킹 3D 모작 — 1인 개발 | Unity · C# |
